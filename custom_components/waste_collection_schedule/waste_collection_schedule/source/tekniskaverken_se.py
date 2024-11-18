@@ -7,7 +7,7 @@ TITLE = "Linköping - Tekniska Verken"
 DESCRIPTION = "Source for Tekniska Verken in Linköping waste collection"
 URL = "https://www.tekniskaverken.se/"
 API_URL = (
-    "https://www.tekniskaverken.se/privat/avfall-och-atervinning/mat-och-restavfall/"
+    "https://www.tekniskaverken.se/privat/avfall-atervinning/sophamtning-mat-restavfall/"
 )
 TEST_CASES = {
     "Somewhere": {"street": "Roshagsvägen 2", "city": "Linköping"},
